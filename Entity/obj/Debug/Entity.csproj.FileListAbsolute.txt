@@ -1,0 +1,5 @@
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\Entity\bin\Debug\Entity.dll
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\Entity\bin\Debug\Entity.pdb
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\Entity\obj\Debug\Entity.dll
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\Entity\obj\Debug\Entity.pdb

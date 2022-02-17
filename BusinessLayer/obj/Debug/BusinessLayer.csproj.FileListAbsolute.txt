@@ -1,0 +1,12 @@
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\bin\Debug\Entity.dll
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\bin\Debug\Entity.pdb
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Anshpreet kaur\source\repos\UserManagementMvcApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb
